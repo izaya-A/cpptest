@@ -1,0 +1,3 @@
+/home/lifeifan/Documents/vscodeporject/cpptest/build/CMakeFiles/cpptest.dir
+/home/lifeifan/Documents/vscodeporject/cpptest/build/CMakeFiles/edit_cache.dir
+/home/lifeifan/Documents/vscodeporject/cpptest/build/CMakeFiles/rebuild_cache.dir

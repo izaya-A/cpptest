@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file,CMakeFiles/cpptest.dir/link.d CMakeFiles/cpptest.dir/main.cpp.o -o cpptest
